@@ -1,0 +1,17 @@
+1.	Выбрать набор данных.Распределение наборов данных по группам должно быть равномерным. Название набора даных скопировать в таблицу с срапределениями по командам, поставить + напротив соответствующей строки таблицы «Наборы данных»
+2.	Изучить набор данных, исследовать на пропуске, выбросы, балансировку по классам и тд
+3.	Для решения задачи выбрать 3 модели. Минимум одна модель – классическое машинное обучение. Минимум одна модель – глубокий/нейросетевой подход.
+4.	Выбрать функцию потерь.
+5.	Выбрать критерии качества решения задачи.
+6.	Произвести тренировку моделей. Выбрать наилучший.
+7.	Подготовить презентацию с постановкой задачи, описание наборов данных, моделей, результатами исследований.
+
+Datasets:
+EuroSAT - EuroSat Dataset - https://www.kaggle.com/datasets/apollo2506/eurosat-dataset
+Wiki Traffic - Time Series - Web Traffic Time Series Forecasting - https://www.kaggle.com/datasets/ymlai87416/wiktraffictimeseriesforecast/data
+DNA Seq dataset  -	DNA sequence dataset - https://www.kaggle.com/datasets/nageshsingh/dna-sequence-dataset/data
+Emotion dataset - Emotion Dataset for Emotion Recognition Tasks - https://www.kaggle.com/datasets/parulpandey/emotion-dataset/data
+SPAM dataset - https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+Rotation prediction - https://www.kaggle.com/code/alibalapour/rotation-prediction-de-skewing-text-in-images/
+Human Age Prediction Synthetic Dataset	Human Age Prediction Synthetic Dataset - https://www.kaggle.com/datasets/abdullah0a/human-age-prediction-synthetic-dataset
+Age detection	Age Detection - Face Recognition Dataset - https://www.kaggle.com/datasets/trainingdatapro/age-detection-human-faces-18-60-years/data - https://www.kaggle.com/datasets/arashnic/faces-age-detection-dataset
